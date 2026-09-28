@@ -4,6 +4,11 @@ Welcome! This is a free, beginner-friendly space for learning and practicing the
 
 ## 🎯 About
 
+if( Not able to understand C programming language){
+
+    printf(" Welcome user to my repo !!");
+}
+
 The material is arranged in chapters to give new learners a place to start and a steady path to follow. Use it for self-study, alongside a class, or whenever you want to strengthen your C fundamentals.
 
 ## 📚 What to Expect
@@ -19,3 +24,8 @@ Begin with the first chapter and work through the material at your own pace. Try
 ## 💡 Keep Learning
 
 Learning to program takes curiosity and practice. Explore, make mistakes, and keep going. Happy coding!
+
+## Credits
+Learnt from: CodeWithHarry
+Study material is (self-learnt && self-taught && self-prepared), 
+with important key-points to remember in the form of comments.
