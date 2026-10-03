@@ -16,6 +16,6 @@ int main(){
     return 0;
 }
 /* And if the while condition would have been false,
-then also first the code with print the statement defined
+then also first the code will print the statement defined and
 then check for the condition and terminate.
 */ 

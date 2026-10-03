@@ -9,7 +9,7 @@ int main()
     while (i < 4)
     {
         printf("HI !!\n");
-        i += 1;
+        i++;
     }
     return 0;
     /* runs 4 interations, because:

@@ -13,16 +13,16 @@ int main()
     /* Now, the value printed will be 6...but how ? let's understand:
 
     we should know that " ++ " is an incerment operator which increments,
-    by default "only by 1" ....but the position of this operator is what creates difference
+    by default "only by 1" ....but the position of this operator is what creates difference.
 
     ++i ==> the incerment operator comes first,
     therefore first the value is incremented then printed.
 
     i++ ==> the incerment operator comes after the decleared variable,
     therefore first the value of i(Declared variable) will be printed and then incremented.
-    the value incremente will be not shownas the i is already printed but it's incremented for the next use.
+    the value incremente will be not shown, as the i is already printed but it is incremented for the next use.
 
-    So, yeah !! It all depends where the ++ is placed
+    So, yeah !! It all depends where the ++ (Increment operator) is placed
     */
     printf(" the value of i is: %d\n", i++); // prints the value as 6, but has been incremented to 7
 
