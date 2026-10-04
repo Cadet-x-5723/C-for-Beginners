@@ -1,6 +1,6 @@
 /*
 Write a program to implement "program-5",
-using for loop.
+using do-while loop.
 
 program-5:
 Write a program to sum first ten natural numbers using while loop
@@ -9,11 +9,13 @@ Write a program to sum first ten natural numbers using while loop
 #include<stdio.h>
 
 int main(){
+
+    int i=1;
     int sum=0;
-    int i;
-    for(i=1; i<=10; i++){
+    do{
         sum+=i;
-    }
+        i++;
+    }while(i<=10);
     printf("The sum fo first 10 natural nos. is : %d",sum);
     return 0;
 }
