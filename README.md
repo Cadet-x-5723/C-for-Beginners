@@ -26,6 +26,6 @@ Begin with the first chapter and work through the material at your own pace. Try
 Learning to program takes curiosity and practice. Explore, make mistakes, and keep going. Happy coding!
 
 ## Credits
-Learnt from: CodeWithHarry
-Study material is (self-learnt && self-taught && self-prepared), 
+- Learnt from: CodeWithHarry
+- Study material is (self-learnt && self-taught && self-prepared), 
 with important key-points to remember in the form of comments.
